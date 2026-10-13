@@ -49,6 +49,9 @@ Add a screenshot of the portfolio homepage here.
 
 ![ZeroCore portfolio homepage](assets/homepage.png)
 -->
+## 📸 Preview
+
+![ZeroCore Application](prevcore.png)
 
 ## 🔗 Connect
 
